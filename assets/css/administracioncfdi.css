@@ -1,0 +1,14 @@
+/* CSS declarations go here */
+body {
+	background: url(../img/body-bg.png) repeat 0 0;
+}
+
+.main.container {
+	margin-top: 7em;
+}
+
+/* BGA Blue */
+.ui.inverted.menu .bgablue.active.item,
+.ui.inverted.bgablue.menu {
+	background-color: #4C76A5;
+}
